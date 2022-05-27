@@ -1,9 +1,8 @@
 
-## Proyecto Spring Boot  -  CRUD
-### Con SpringMVC - Spring Data Jpa e Hibernate  -  Thymeleaf  -  Bootstrap v4.5
-
-
-### (Control de Datos con API REST)
+### Proyecto Spring Boot  -  CRUD
+- #### Uso SpringMVC - Spring Data Jpa e Hibernate  
+- #### Uso de Thymeleaf  -  Bootstrap v4.5
+- #### Control de Datos con API REST
 
 ![Postman 21_4_2022 22_24_28](https://user-images.githubusercontent.com/88462536/164809705-39a9d364-51b0-4721-8b61-76a040a9c949.png)
 
@@ -15,7 +14,7 @@
 
 ![Postman 21_4_2022 22_26_20](https://user-images.githubusercontent.com/88462536/164810086-a52a6e39-cfdd-49a3-b41c-27a8e3ed9539.png)
 
-### (CRUD)
+- #### CRUD
 
 ![Productos - Google Chrome 21_4_2022 21_49_25](https://user-images.githubusercontent.com/88462536/164814376-00a8ab86-769d-4d96-89c3-38b6b6b0c683.png)
 
