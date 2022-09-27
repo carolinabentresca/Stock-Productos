@@ -1,5 +1,5 @@
 
-### Proyecto Spring Boot  -  CRUD
+### Proyecto Java Spring Boot  -  CRUD
 - #### Uso SpringMVC - Spring Data Jpa e Hibernate  
 - #### Uso de Thymeleaf  -  Bootstrap v4.5
 - #### Control de Datos con API REST
